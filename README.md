@@ -1,6 +1,6 @@
 # smart-brain-api
 
-Backend application for facerecognition brain app
+Backend application for facerecognition brain app built using node/expressJS
 
 1. Clone this repo
 2. Run `npm install`
